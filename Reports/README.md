@@ -1,1 +1,5 @@
-Published Papers.
+1. Y. Joshi, K. Mallibhat and V. M., "Systematic Literature Review: An Investigation Towards Finding Constructs For Performance Prediction of Students in an Online Engineering Course," 2022 IEEE IFEES World Engineering Education Forum - Global Engineering Deans Council (WEEF-GEDC), Cape Town, South Africa, 2022, pp. 1-5, doi: 10.1109/WEEF-GEDC54384.2022.9996249. keywords: {Support vector machines;Systematics;Statistical analysis;Bibliographies;Classification algorithms;Decision trees;Engineering education;Systematic Literature Review;Student engagement;Blended learning;Learning Management System},
+
+2. Y. Joshi, K. Mallibhat and V. M., "Students' Performance Prediction Using Multimodal Machine Learning," 2022 IEEE IFEES World Engineering Education Forum - Global Engineering Deans Council (WEEF-GEDC), Cape Town, South Africa, 2022, pp. 1-5, doi: 10.1109/WEEF-GEDC54384.2022.9996212. keywords: {Training;Correlation coefficient;Learning management systems;Ecosystems;Predictive models;Prediction algorithms;Decision trees;Performance prediction;Learning Ecosystems;Student Interactions;Demographic Factors},
+
+
